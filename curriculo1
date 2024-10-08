@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julia Kailer</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <h1>julia kailer</h1>
+    </header>
+
+    <main class="content">
+        <section class="intro">
+            <h2></h2>
+            <p>Nascionalidade brasileira,solteira,15anos.</p>
+        </section>
+
+        <section class="questions">
+            <h3>Pergunta 1</h3>
+            <p>Explique o que é HTML e como ele é utilizado no desenvolvimento web.</p>
+
+            <h3>Pergunta 2</h3>
+            <p>Descreva a diferença entre CSS e JavaScript.</p>
+
+            <h3>Pergunta 3</h3>
+            <p>O que é um framework? Cite dois exemplos de frameworks utilizados para desenvolvimento front-end.</p>
+        </section>
+
+        <button class="submit-btn">Enviar Respostas</button>
+    </main>
+
+    <footer class="footer">
+        <p>© 2024 Oficina de Desenvolvimento Web - Escola Técnica</p>
+    </footer>
+</body>
+</html>
